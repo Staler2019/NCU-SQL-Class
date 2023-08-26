@@ -1,0 +1,3 @@
+Empty DataFrame
+Columns: [course_name, teacher_name, SUM(feedback_rank), AVG(feedback_rank)]
+Index: []

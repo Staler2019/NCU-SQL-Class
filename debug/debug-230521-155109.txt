@@ -1,0 +1,2 @@
+course_name teacher_name  SUM(feedback_rank)  AVG(feedback_rank)
+     微積分         岳飛                 199            3.618182

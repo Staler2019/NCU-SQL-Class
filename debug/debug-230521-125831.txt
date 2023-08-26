@@ -1,0 +1,2 @@
+student_dept curriculum_field  COUNT(*)
+      數學系         理論數學        93
